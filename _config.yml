@@ -17,8 +17,8 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: Facebook
+    link: www.facebook.com/myanmarsport
   option2:
     name: Cool Option 2
     link: www.myawesomelink.com
