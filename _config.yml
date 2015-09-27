@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: MYANMAR SPORT SERVICE
+email: ego.itunes@dicloud.com
+description: ># ျမန္မာနုိင္ငံသားမ်ားအတြက္ Internet တြင္ ေဘာလုံးအားကစားေဆာ့ကစားျခင္းအား ေစ်းနႈန္းခ်ိဳသာစြာျဖင့္ ဝန္ေဆာင္မႈေပးျခင္း 
+    ျဖစ္ပါတယ္။ နုိင္ငံတကာနည္းတူ အင္တာနက္တြင္ သင့္စိတ္ျကိဳက္အသင္းကုိ ေငြက်ပ္ ၁၀၀၀ မွ စတင္ကစားနုိင္သည့္ အခြင့္အေရးကုိ ခက္လြတ္မခံဖုိ႔
+   M Sport ျဖင့္ လက္တြဲပါ။
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username: egobrightan
+twitter_username:  ego_1986
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
@@ -17,14 +16,14 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: Facebook
+    link: www.facebook.com/myanmarsport
   option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
+    name: Official Site
+    link: http://mmsportservice.com
   option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
+    name: Guide
+    link: http://guide.mmsportservice.com
 
 # Build settings
 markdown: kramdown
