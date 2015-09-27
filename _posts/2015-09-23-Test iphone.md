@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test from iphone"
-image: https://googledrive.com/host/0BycdEcJjniYqYUVpeUFweW1zeWs
+image: http://i.imgur.com/Hi665sI.jpg
 ---
 
-Hello World I test from iPhone 
+Hello World I test from iPhone
