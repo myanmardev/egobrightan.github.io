@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test from iphone"
-image: http://i.imgur.com/Hi665sI.jpg
+image: http://i.imgur.com/iZffFTD.jpg
 ---
 
-Hello World I test from iPhone
+Hello World I test from iPhone. Image Size
